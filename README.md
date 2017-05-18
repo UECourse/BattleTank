@@ -3,7 +3,7 @@ An open-world head-to-head with simple AI, terrain and advanced control system i
 
 Made for the [Unreal Engine Developer course](https://www.udemy.com/unrealcourse/learn/v4/content) by Ben Tristem
 
-# Rules
+## Rules
 * Player can move anywhere in an open terrain.
 * Player will have finite health and ammo
 * Hit by the enemy will reduce the players health
@@ -11,3 +11,4 @@ Made for the [Unreal Engine Developer course](https://www.udemy.com/unrealcourse
 
 ## Lecture list
 * BT_01 Setting Up GitHub "Repo"
+* BT_02 A Landscaping Process
